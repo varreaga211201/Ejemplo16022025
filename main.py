@@ -14,4 +14,4 @@ if response.status_code == 200:
 				print(f"Información de Wikipedia sobre '{fer}':")
 				print(primer_parrafo)
 else:
-				print(f"No se pudo obtener la información de Wikipedia para '{fer}'")
+				print(f"No se pudo iniciar obtener la información de Wikipedia para '{fer}'")
